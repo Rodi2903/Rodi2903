@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ivan James V. Rodriguez</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Vue+%7C+Django+%7C+Laravel;Building+Web+Applications;AI Tools;Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Vue+%7C+Django+%7C+Laravel;Building+Web+Applications;AI+Tools;Learning+New+Technologies" />
 </p>
 
 <p align="center">
