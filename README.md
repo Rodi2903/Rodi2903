@@ -36,6 +36,19 @@ Canva • MS Office Suite • Google Workspace
 
 ---
 
+## 🤖 AI Tools
+
+<p align="left">
+<img src="https://cdn.simpleicons.org/openai" height="40" alt="ChatGPT / OpenAI"/>
+<img src="https://cdn.simpleicons.org/githubcopilot" height="40" alt="GitHub Copilot"/>
+<img src="https://cdn.simpleicons.org/anthropic" height="40" alt="Claude"/>
+<img src="https://cdn.simpleicons.org/google" height="40" alt="Google Gemini"/>
+</p>
+
+ChatGPT • GitHub Copilot • Cursor AI • Claude • Gemini
+
+---
+
 # 🚀 Projects
 
 ## Soft Project Application Management System
@@ -85,12 +98,6 @@ Canva • MS Office Suite • Google Workspace
 
 **Bachelor of Science in Information Technology**  
 Polytechnic University of the Philippines – Santa Rosa Campus  
-(Expected October 2025)
-
-**Upper Secondary Education – ABM**  
-Laguna Eastern Academy of Sta. Rosa Inc.  
-(May 2021)
-
 ---
 
 # 🧩 Soft Skills
