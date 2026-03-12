@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ivan James V. Rodriguez</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Vue+%7C+Django;Building+Web+Applications;Open+to+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Vue+%7C+Django+%7C+Laravel;Building+Web+Applications;Open+to+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -54,9 +54,7 @@ ChatGPT • Meta • Claude • Gemini • GitHub Copilot • Cursor AI
 
 <p align="left">
 
-<a href="https://www.credly.com/badges/b1ec504f-fd1d-4fe1-a0fe-b3a0e89772db/public_url">
-<img src="https://images.credly.com/size/340x340/images/b1ec504f-fd1d-4fe1-a0fe-b3a0e89772db/image.png" height="110"/>
-</a>
+<a href="https://www.credly.com/badges/b1ec504f-fd1d-4fe1-a0fe-b3a0e89772db/public_url">Introduction To Modern AI</a>
 
 </p>
 
