@@ -104,6 +104,6 @@ Effective Communication • Eagerness to Learn • Team Collaboration
 
 # 📊 GitHub Stats
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodi2903&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodi2903&layout=compact)
