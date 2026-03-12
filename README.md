@@ -124,11 +124,5 @@ Effective Communication • Eagerness to Learn • Team Collaboration
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rodi2903&show_icons=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodi2903" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodi2903&layout=compact" />
-
 </p>
