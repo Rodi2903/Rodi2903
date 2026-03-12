@@ -43,6 +43,8 @@ Canva • MS Office Suite • Google Workspace
 <img src="https://cdn.simpleicons.org/googlegemini" height="40"/>
 </p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b1ec504f-fd1d-4fe1-a0fe-b3a0e89772db" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ChatGPT • GitHub Copilot • Cursor AI • Claude • Gemini
 
 ---
