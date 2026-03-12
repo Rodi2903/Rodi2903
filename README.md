@@ -37,15 +37,28 @@ Canva • MS Office Suite • Google Workspace
 # 🤖 AI Tools
 
 <p>
-<img src="https://cdn.simpleicons.org/githubcopilot" height="40"/>
-<img src="https://cdn.simpleicons.org/cursor" height="40"/>
+<img src="https://cdn.simpleicons.org/meta" height="40"/>
 <img src="https://cdn.simpleicons.org/claude" height="40"/>
 <img src="https://cdn.simpleicons.org/googlegemini" height="40"/>
+<img src="https://cdn.simpleicons.org/githubcopilot" height="40"/>
+<img src="https://cdn.simpleicons.org/cursor" height="40"/>
 </p>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b1ec504f-fd1d-4fe1-a0fe-b3a0e89772db" data-share-badge-host="https://www.credly.com"></div>
 
-ChatGPT • GitHub Copilot • Cursor AI • Claude • Gemini
+ChatGPT • Meta • Claude • Gemini • GitHub Copilot • Cursor AI 
+
+---
+
+## 🏆 Certifications
+
+<p align="left">
+
+<a href="https://www.credly.com/badges/b1ec504f-fd1d-4fe1-a0fe-b3a0e89772db/public_url">
+<img src="https://images.credly.com/size/340x340/images/b1ec504f-fd1d-4fe1-a0fe-b3a0e89772db/image.png" height="110"/>
+</a>
+
+</p>
 
 ---
 
