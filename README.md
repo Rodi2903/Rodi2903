@@ -55,6 +55,7 @@ ChatGPT • Meta • Claude • Gemini • GitHub Copilot • Cursor AI
 <p align="left">
 
 <a href="https://www.credly.com/badges/b1ec504f-fd1d-4fe1-a0fe-b3a0e89772db/public_url">Introduction To Modern AI</a>
+<a href="https://www.credly.com/badges/c5081688-a5ea-4db6-bb78-4fc5c5eda3ca/public_url">Digital Safety and Security Awareness</a>
 
 </p>
 
